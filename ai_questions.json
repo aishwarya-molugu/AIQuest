@@ -1,0 +1,205 @@
+[
+  {
+    "category": "AI Basics",
+    "question": "Who is known as the father of Artificial Intelligence?",
+    "options": ["Alan Turing", "John McCarthy", "Geoffrey Hinton", "Andrew Ng"],
+    "answer": "John McCarthy",
+    "explanation": "John McCarthy coined the term 'Artificial Intelligence' in 1956."
+  },
+  {
+    "category": "AI Basics",
+    "question": "What is the primary goal of Artificial Intelligence?",
+    "options": ["To make computers faster", "To simulate human intelligence", "To replace humans", "To create robots only"],
+    "answer": "To simulate human intelligence",
+    "explanation": "AI aims to simulate human-like decision making and learning."
+  },
+  {
+    "category": "AI Basics",
+    "question": "Which of these is a type of AI based on capability?",
+    "options": ["Narrow AI", "General AI", "Super AI", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "AI can be categorized as Narrow, General, or Super AI based on capability."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "Which of the following is a supervised learning algorithm?",
+    "options": ["K-Means", "Apriori", "Linear Regression", "PCA"],
+    "answer": "Linear Regression",
+    "explanation": "Linear Regression uses labeled data, making it supervised learning."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "Which ML technique is commonly used for classification tasks?",
+    "options": ["Decision Trees", "K-Means", "Apriori", "PCA"],
+    "answer": "Decision Trees",
+    "explanation": "Decision Trees are widely used for classification problems."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "What is overfitting in Machine Learning?",
+    "options": ["Model performs poorly on training data", "Model performs well on training but poorly on new data", "Model is too simple", "Model has no data"],
+    "answer": "Model performs well on training but poorly on new data",
+    "explanation": "Overfitting occurs when the model memorizes training data and fails to generalize."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "Which algorithm is used for clustering?",
+    "options": ["K-Means", "Linear Regression", "Random Forest", "Naive Bayes"],
+    "answer": "K-Means",
+    "explanation": "K-Means is a popular unsupervised learning algorithm for clustering."
+  },
+  {
+    "category": "Deep Learning",
+    "question": "What does CNN stand for?",
+    "options": ["Complex Neural Network", "Convolutional Neural Network", "Circular Neural Network", "Computational Neural Network"],
+    "answer": "Convolutional Neural Network",
+    "explanation": "CNNs are mainly used for image-related tasks."
+  },
+  {
+    "category": "Deep Learning",
+    "question": "Which neural network is best suited for sequential data?",
+    "options": ["RNN", "CNN", "GAN", "MLP"],
+    "answer": "RNN",
+    "explanation": "Recurrent Neural Networks are designed for sequential or time-series data."
+  },
+  {
+    "category": "Deep Learning",
+    "question": "What is a GAN used for?",
+    "options": ["Generating realistic data", "Classification", "Regression", "Clustering"],
+    "answer": "Generating realistic data",
+    "explanation": "Generative Adversarial Networks generate realistic synthetic data."
+  },
+  {
+    "category": "Deep Learning",
+    "question": "Which activation function is commonly used in deep learning?",
+    "options": ["Sigmoid", "ReLU", "Tanh", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Sigmoid, ReLU, and Tanh are commonly used activation functions."
+  },
+  {
+    "category": "NLP",
+    "question": "What does NLP stand for?",
+    "options": ["Neural Language Processing", "Natural Language Processing", "Network Language Processing", "None of the above"],
+    "answer": "Natural Language Processing",
+    "explanation": "NLP stands for Natural Language Processing, which deals with human language."
+  },
+  {
+    "category": "NLP",
+    "question": "Which NLP task involves predicting the next word in a sentence?",
+    "options": ["Text Classification", "Language Modeling", "Sentiment Analysis", "Tokenization"],
+    "answer": "Language Modeling",
+    "explanation": "Language Modeling predicts the next word based on context."
+  },
+  {
+    "category": "NLP",
+    "question": "Which technique is used to convert words into vectors?",
+    "options": ["Bag of Words", "Word Embeddings", "TF-IDF", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Bag of Words, Word Embeddings, and TF-IDF are techniques to represent text as vectors."
+  },
+  {
+    "category": "NLP",
+    "question": "Which model is popular for text generation?",
+    "options": ["RNN", "Transformer", "CNN", "Decision Tree"],
+    "answer": "Transformer",
+    "explanation": "Transformer-based models like GPT are used for text generation."
+  },
+  {
+    "category": "AI Applications",
+    "question": "Which AI technique powers voice assistants like Alexa and Siri?",
+    "options": ["Computer Vision", "Reinforcement Learning", "Natural Language Processing", "Deep Reinforcement Learning"],
+    "answer": "Natural Language Processing",
+    "explanation": "Voice assistants use NLP to interpret and respond to human speech."
+  },
+  {
+    "category": "AI Applications",
+    "question": "Which AI is commonly used in self-driving cars?",
+    "options": ["Computer Vision", "RNN", "GAN", "Linear Regression"],
+    "answer": "Computer Vision",
+    "explanation": "Computer Vision helps self-driving cars detect objects and lanes."
+  },
+  {
+    "category": "AI Applications",
+    "question": "Which AI technique is used in recommendation systems?",
+    "options": ["Collaborative Filtering", "GAN", "RNN", "CNN"],
+    "answer": "Collaborative Filtering",
+    "explanation": "Recommendation systems often use collaborative filtering to suggest items."
+  },
+  {
+    "category": "AI Applications",
+    "question": "Which AI model is used for image recognition?",
+    "options": ["CNN", "RNN", "GAN", "Decision Tree"],
+    "answer": "CNN",
+    "explanation": "Convolutional Neural Networks are used for image classification and recognition."
+  },
+  {
+    "category": "AI Basics",
+    "question": "Which of the following is NOT an AI branch?",
+    "options": ["Machine Learning", "Natural Language Processing", "Deep Learning", "Blockchain"],
+    "answer": "Blockchain",
+    "explanation": "Blockchain is not a branch of AI."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "Which algorithm is used for dimensionality reduction?",
+    "options": ["PCA", "Linear Regression", "Decision Tree", "K-Means"],
+    "answer": "PCA",
+    "explanation": "Principal Component Analysis (PCA) reduces feature dimensions."
+  },
+  {
+    "category": "Deep Learning",
+    "question": "Which network uses layers of neurons to approximate functions?",
+    "options": ["MLP", "CNN", "RNN", "GAN"],
+    "answer": "MLP",
+    "explanation": "Multi-Layer Perceptron (MLP) approximates functions using layers of neurons."
+  },
+  {
+    "category": "NLP",
+    "question": "Which task classifies text as positive, negative, or neutral?",
+    "options": ["Tokenization", "Sentiment Analysis", "Language Modeling", "Parsing"],
+    "answer": "Sentiment Analysis",
+    "explanation": "Sentiment analysis determines the polarity of text."
+  },
+  {
+    "category": "AI Applications",
+    "question": "Which AI is used for fraud detection in banking?",
+    "options": ["Machine Learning", "CNN", "GAN", "RNN"],
+    "answer": "Machine Learning",
+    "explanation": "Machine Learning models detect unusual patterns to prevent fraud."
+  },
+  {
+    "category": "AI Basics",
+    "question": "Which type of AI aims to outperform humans in all tasks?",
+    "options": ["Narrow AI", "General AI", "Super AI", "Applied AI"],
+    "answer": "Super AI",
+    "explanation": "Super AI is hypothetical AI that surpasses human intelligence in all areas."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "Which of the following is an ensemble learning method?",
+    "options": ["Random Forest", "Linear Regression", "K-Means", "Naive Bayes"],
+    "answer": "Random Forest",
+    "explanation": "Random Forest combines multiple decision trees for better performance."
+  },
+  {
+    "category": "Deep Learning",
+    "question": "Which deep learning model is used for generating realistic images?",
+    "options": ["GAN", "RNN", "CNN", "MLP"],
+    "answer": "GAN",
+    "explanation": "Generative Adversarial Networks (GANs) generate realistic images."
+  },
+  {
+    "category": "NLP",
+    "question": "Which model is famous for language understanding and question-answering?",
+    "options": ["BERT", "CNN", "RNN", "GAN"],
+    "answer": "BERT",
+    "explanation": "BERT (Bidirectional Encoder Representations from Transformers) is used for NLP tasks."
+  },
+  {
+    "category": "AI Applications",
+    "question": "Which AI technology is used in chatbots?",
+    "options": ["NLP", "CNN", "GAN", "Reinforcement Learning"],
+    "answer": "NLP",
+    "explanation": "Chatbots use NLP to understand and respond to user queries."
+  }
+]
